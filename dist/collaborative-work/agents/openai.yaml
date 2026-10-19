@@ -1,0 +1,4 @@
+interface:
+  display_name: "人类友好协作"
+  short_description: "把模糊需求拆成用户能判断的取舍，再按已授权范围分轮推进"
+  default_prompt: "请用 $collaborative-work 协助这项工作：明确的小任务直接做，需要取舍时先解释关键选择，再按已授权范围推进。"
